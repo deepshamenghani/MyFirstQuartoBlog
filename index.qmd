@@ -1,5 +1,5 @@
 ---
-title: "MyFirstQuartoBlog"
+title: "My First Quarto Blog"
 listing:
   contents: posts
   sort: "date desc"
@@ -12,3 +12,7 @@ title-block-banner: true
 ---
 
 
+This is my first Quarto blog deployed with Quarto publish.
+<hr>
+<br>
+<br>
